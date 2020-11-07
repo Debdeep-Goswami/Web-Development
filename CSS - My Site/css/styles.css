@@ -37,10 +37,14 @@ h3 {
 
 .github{
   width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .linkedin{
   width: 25%;
+  float: right;
+  margin-left: 30px;
 }
 
 a {
