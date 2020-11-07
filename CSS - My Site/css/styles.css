@@ -27,6 +27,22 @@ h3 {
   text-decoration: underline;
 }
 
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.github{
+  width: 25%;
+}
+
+.linkedin{
+  width: 25%;
+}
+
 a {
   color: #11999E;
 }
